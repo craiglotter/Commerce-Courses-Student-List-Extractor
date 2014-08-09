@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commerce Courses Student List Extractor", "Commerce Courses Student List Extractor.csproj", "{602365C0-196A-4F64-B709-C6B76EB7F5D0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{602365C0-196A-4F64-B709-C6B76EB7F5D0}.Debug.ActiveCfg = Debug|.NET
+		{602365C0-196A-4F64-B709-C6B76EB7F5D0}.Debug.Build.0 = Debug|.NET
+		{602365C0-196A-4F64-B709-C6B76EB7F5D0}.Release.ActiveCfg = Release|.NET
+		{602365C0-196A-4F64-B709-C6B76EB7F5D0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
